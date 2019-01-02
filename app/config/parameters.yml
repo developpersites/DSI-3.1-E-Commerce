@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: hamzadardouri
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 44d217a6c8e8edef4a3f99654739a6f41c3ce051
+twig:
+    globals:
+        titre: 'Fruits & Légumes'
+        email: 'your email'
